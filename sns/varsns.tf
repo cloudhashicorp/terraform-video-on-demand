@@ -1,0 +1,3 @@
+variable "snsname" {}
+
+variable "delpolicy" {}

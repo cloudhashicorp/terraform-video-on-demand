@@ -1,0 +1,14 @@
+Available:
+
+Simple Storage Service (S3)
+Lambda
+DynamoDB
+CloudWatch
+Simple Notification Service (SNS)
+Simple Queue Service (SQS)
+CloudFront
+
+Not Available:
+
+Step Functions
+Elemental MediaConvert
